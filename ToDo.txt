@@ -1,1 +1,2 @@
-Test authentication with Git Branch
+Test authentication with Git Bash
+Authentication was successful
